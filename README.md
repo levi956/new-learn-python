@@ -1,16 +1,31 @@
-# new_learn_python
+# Learn Python: Key Concepts Guide
 
-A new Flutter project.
+learn Python key concepts guide is an mobile offline application  that contains hands on guide in getting started in learning the Python 3 programming language. Learn Python: Key Concepts Guide was built using the Dart Flutter framework. Please feel free to use and contrutions are open.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+## Screenshots
 
-A few resources to get you started if this is your first Flutter project:
+<img src="graphics/banner_1.png"> 
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+| Splash Screen | 
+|    :---:     |     
+| <img src="graphics/splash.png" width="500"> |
+
+
+| Home Screen | Drawer Screen | 
+|    :---:     |     :---:      |  
+| <img src="graphics/home.png" width="500">   | <img src="graphics/food.png" width="500">   |
+
+
+| Object Oriented Screen | Strings Screen | 
+|    :---:     |     :---:      |  
+| <img src="graphics/detailoop.png" width="500">   | <img src="graphics/detailstring.png" width="500">   |
+
+## Contributions
+
+Feel free to contribute to this project.
+
+If you find a bug or want a feature, but don't know how to fix/implement it, please fill an [issue](https://github.com/levi956/new-learn-python/issues).
+If you fixed a bug or implemented a feature, please send a [pull request](https://github.com/levi956/new-learn-python/pulls).
