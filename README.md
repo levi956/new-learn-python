@@ -9,10 +9,6 @@ learn Python key concepts guide is an mobile offline application  that contains 
 <img src="graphics/banner1.png"> 
 
 
-| Splash Screen | 
-|    :---:     |     
-| <img src="graphics/splash.png" width="500"> |
-
 
 | Home Screen | Drawer Screen | 
 |    :---:     |     :---:      |  
