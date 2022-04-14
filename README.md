@@ -6,7 +6,7 @@ learn Python key concepts guide is an mobile offline application  that contains 
 
 ## Screenshots
 
-<img src="graphics/banner_1.png"> 
+<img src="graphics/banner1.png"> 
 
 
 | Splash Screen | 
@@ -16,7 +16,7 @@ learn Python key concepts guide is an mobile offline application  that contains 
 
 | Home Screen | Drawer Screen | 
 |    :---:     |     :---:      |  
-| <img src="graphics/home.png" width="500">   | <img src="graphics/food.png" width="500">   |
+| <img src="graphics/home.png" width="500">   | <img src="graphics/drawer.png" width="500">   |
 
 
 | Object Oriented Screen | Strings Screen | 
