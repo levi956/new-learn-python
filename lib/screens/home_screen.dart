@@ -6,9 +6,14 @@ import 'package:new_learn_python/widgets/custom_drawer.dart';
 import 'package:new_learn_python/widgets/intermediate.dart';
 import 'package:new_learn_python/widgets/topic_text_widget.dart';
 
-class Home extends StatelessWidget {
-  Home({Key? key}) : super(key: key);
+class Home extends StatefulWidget {
+  const Home({Key? key}) : super(key: key);
 
+  @override
+  State<Home> createState() => _HomeState();
+}
+
+class _HomeState extends State<Home> {
   GlobalKey<ScaffoldState> scaffoldKey = GlobalKey<ScaffoldState>();
 
   @override

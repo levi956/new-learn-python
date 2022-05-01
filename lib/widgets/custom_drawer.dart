@@ -4,18 +4,18 @@ import 'package:url_launcher/url_launcher.dart';
 class CustomDrawer extends StatelessWidget {
   const CustomDrawer({Key? key}) : super(key: key);
 
-  static const _privacy_url =
+  static const _privacyUrl =
       'https://github.com/levi956/Learn-Python-Offline-Guide/blob/main/privacy.md';
-  static const _terms_url =
+  static const _termsUrl =
       'https://github.com/levi956/Learn-Python-Offline-Guide/blob/main/terms%26conditions.md';
 
-  void _launchURL() async => await canLaunch(_privacy_url)
-      ? await launch(_privacy_url)
-      : throw 'Could not launch $_privacy_url';
+  void _launchURL() async => await canLaunch(_privacyUrl)
+      ? await launch(_privacyUrl)
+      : throw 'Could not launch $_privacyUrl';
 
-  void _launchURLTwo() async => await canLaunch(_terms_url)
-      ? await launch(_terms_url)
-      : throw 'Could not launch $_terms_url';
+  void _launchURLTwo() async => await canLaunch(_termsUrl)
+      ? await launch(_termsUrl)
+      : throw 'Could not launch $_termsUrl';
 
   @override
   Widget build(BuildContext context) {

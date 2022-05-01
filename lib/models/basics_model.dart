@@ -1,8 +1,8 @@
 class BasicCategoryModel {
-  String? name;
-  String? image;
-
   BasicCategoryModel(this.name, this.image);
+
+  String? image;
+  String? name;
 }
 
 List<BasicCategoryModel> basics = basicCategoryData

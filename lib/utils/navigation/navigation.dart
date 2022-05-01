@@ -19,7 +19,7 @@ import 'package:new_learn_python/screens/variables.dart';
 class Routes {
   static final routes = [
     GetPage(name: '/testScreen', page: () => const TestScreen()),
-    GetPage(name: '/home', page: () => Home()),
+    GetPage(name: '/home', page: () => const Home()),
     GetPage(name: '/keywords', page: () => const Keywords()),
     GetPage(name: '/intro', page: () => const Intro()),
     GetPage(name: '/variables', page: () => const Variables()),

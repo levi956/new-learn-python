@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
 
-import 'controllers/routes.dart';
+import 'utils/navigation/navigation.dart';
 
 /*
 To do
